@@ -1,5 +1,5 @@
 let a = 30;
-let b = 30;
+let b = 29;
 /*console.log("a + b = ",a + b);
 console.log("a - b = ",a - b);
 console.log("a / b = ",a / b);
@@ -29,8 +29,12 @@ console.log(a);
 console.log("30 == 30 ",a == b);
 console.log("30 === 30 ",a === b);
 console.log("30 != 30 ",a != b);
-console.log("30 !== 30 ",a !== b);*/
+console.log("30 !== 30 ",a !== b);
 console.log("30 > 30 ",a > b);
 console.log("30 < 30 ",a < b);
 console.log("30 < 30 ",a <= b);
-console.log("30 > 30 ",a >= b);
+console.log("30 > 30 ",a >= b);*/
+
+console.log(a > b && a + b == 59);
+ console.log(a > b || a == b);
+ console.log(! a < b);
