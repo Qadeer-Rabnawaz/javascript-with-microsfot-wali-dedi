@@ -1,0 +1,36 @@
+let a = 30;
+let b = 30;
+/*console.log("a + b = ",a + b);
+console.log("a - b = ",a - b);
+console.log("a / b = ",a / b);
+console.log("a * b = ",a * b);
+console.log("a % b = ",a % b);
+console.log("a ** b = ",a ** b);
+console.log("a-- = ",a--);
+console.log("a ++ = ",a ++);
+console.log(a);
+console.log("a--" , a--);
+console.log(a);
+console.log("a++" , a++)
+console.log("++a" , ++a);
+console.log("--a" , --a);
+a += 5;
+console.log(a);
+a -= 5;
+console.log(a);
+a *= 5;
+console.log(a);
+a /= 5;
+console.log(a);
+a %= 7;
+console.log(a);
+a **= 5;
+console.log(a); 
+console.log("30 == 30 ",a == b);
+console.log("30 === 30 ",a === b);
+console.log("30 != 30 ",a != b);
+console.log("30 !== 30 ",a !== b);*/
+console.log("30 > 30 ",a > b);
+console.log("30 < 30 ",a < b);
+console.log("30 < 30 ",a <= b);
+console.log("30 > 30 ",a >= b);
